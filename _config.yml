@@ -1,14 +1,13 @@
 # Site settings
-title: Bristol Glaciology Centre
+title: BRIDGE (Bristol Research Initiative for the Dynamic Global Environment)
 subtitle: School of Geographical Sciences, University of Bristol
 description: >-
-  The Bristol Glaciology Centre focuses on the study of cold and ice-covered
-  regions across the globe, from the Arctic to the Antarctic.
-author: Bristol Glaciology Centre
-url: https://bristol-glaciology.github.io
+  The BRIDGE research group works to understand the past, present, and future of the Earth system, with a focus on climate, biogeochemistry, ecology, and dynamics.
+author: BRIDGE
+url: https://FannyMonteiro.github.io/bridge.github.io
 baseurl: ""
-repository: bristol-glaciology/bristol-glaciology.github.io
-github_username: bristol-glaciology
+repository: FannyMonteiro.github.io/bridge.github.io
+github_username: bridge
 
 # Theme
 remote_theme: "mmistakes/minimal-mistakes@4.27.3"
@@ -35,9 +34,9 @@ collections:
 
 # Site author (appears in footer)
 author:
-  name: Bristol Glaciology Centre
+  name: BRIDGE
   avatar: /assets/images/logos/bgc-logo.png
-  bio: "Research on glaciers and ice sheets from the Arctic to the Antarctic"
+  bio: "Research on past, present and future Earth Systems"
   location: "Bristol, UK"
   links:
     - label: "Email"
