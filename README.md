@@ -1,4 +1,4 @@
-# Bristol Glaciology Centre Website
+# BRIDGE Website
 
 A Jekyll website powered by Minimal Mistakes theme, hosted on GitHub Pages.
 
